@@ -20,7 +20,7 @@
 
 |                                     구피                                      |                                     주디                                      |                                     데비                                      |
 | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250250"/> | <img src="https://avatars.githubusercontent.com/u/54765850?v=4" width="250"/> | <img src="https://avatars.githubusercontent.com/u/43674132?v=4" width="250"/> |
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250"/> | <img src="https://avatars.githubusercontent.com/u/54765850?v=4" width="250"/> | <img src="https://avatars.githubusercontent.com/u/43674132?v=4" width="250"/> |
 |                   [김동건](https://github.com/DongGeon0908)                   |                     [조수연](https://github.com/soo5717)                      |                     [황일용](https://github.com/dlfdyd96)                     |
 
 ## 🎞 프로젝트 소개 및 MoodBoard
