@@ -13,14 +13,14 @@
 
 |                                     초이                                      |                                      훈                                       |                                     빙글                                      |
 | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/60251579?v=4" width="300"/> | <img src="https://avatars.githubusercontent.com/u/57757719?v=4" width="300"/> | <img src="https://avatars.githubusercontent.com/u/71081893?v=4" width="300"/> |
+| <img src="https://avatars.githubusercontent.com/u/60251579?v=4" width="250"/> | <img src="https://avatars.githubusercontent.com/u/57757719?v=4" width="250"/> | <img src="https://avatars.githubusercontent.com/u/71081893?v=4" width="250"/> |
 |                      [최민석](https://github.com/minsgy)                      |                  [남명훈](https://github.com/MyeonghoonNam)                   |                      [이소진](https://github.com/krungy)                      |
 
 ### Back End Developer 🙋
 
 |                                     구피                                      |                                     주디                                      |                                     데비                                      |
 | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="300"/> | <img src="https://avatars.githubusercontent.com/u/54765850?v=4" width="300"/> | <img src="https://avatars.githubusercontent.com/u/43674132?v=4" width="300"/> |
+| <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="250250"/> | <img src="https://avatars.githubusercontent.com/u/54765850?v=4" width="250"/> | <img src="https://avatars.githubusercontent.com/u/43674132?v=4" width="250"/> |
 |                   [김동건](https://github.com/DongGeon0908)                   |                     [조수연](https://github.com/soo5717)                      |                     [황일용](https://github.com/dlfdyd96)                     |
 
 ## 🎞 프로젝트 소개 및 MoodBoard
