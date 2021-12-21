@@ -115,14 +115,11 @@
 
 기획부터 설계, 디자인, 스프린트 회고까지 진행되었던 일지들이 작성되었습니다.
 ```
-[📆 일정 관리](https://backend-devcourse.notion.site/fa1d874df5c24eca8d0d76ec601e295a?v=b034e4afb6e44644b4c4321f22fdcb2c)  
+
 [🎫 기획서](https://backend-devcourse.notion.site/845eece694e24e90a007f8b4f587facf)  
 [🎨 프로토타입]()  
 [✅ 요구사항 명세서 (SRS)](https://backend-devcourse.notion.site/SRS-77e2d7ac8fc44d768c38c6ad11834d9c)  
-[✨ 요구사항 테이블](https://backend-devcourse.notion.site/a382cb4b09ea49e3be714808ba6dadd4)  
 [1️⃣1차 스프린트 진행 사항](https://backend-devcourse.notion.site/1-568bf6fb627d48ccb059ed20230aebc1)  
 [2️⃣2차 스프린트 진행 사항](https://backend-devcourse.notion.site/2-f6c6ee99db3b4676857acb8e30a76f2f)  
 [🗒 Notion 회의록](https://backend-devcourse.notion.site/b9fa2d7eaf324ba4939208d293d3585b?v=4438f6261490464d9ed6673f44b0246d)  
-[🍀 데모데이 소개 자료](https://seojinseojin.notion.site/ecb9c3c8db3346cd97ad5d35fde624c0)  
-
 
