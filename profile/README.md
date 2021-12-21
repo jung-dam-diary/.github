@@ -22,16 +22,24 @@
 | <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="300"/> | <img src="https://avatars.githubusercontent.com/u/54765850?v=4" width="300"/> | <img src="https://avatars.githubusercontent.com/u/43674132?v=4" width="300"/> |
 |                   [김동건](https://github.com/DongGeon0908)                   |                     [조수연](https://github.com/soo5717)                      |                     [황일용](https://github.com/dlfdyd96)                     |
 
-## 🎞 프로젝트 소개
+## 🎞 프로젝트 소개 및 MoodBoard
 
 ```
 정(情)을 기록하고 담(情)을 나누며 추억에 빠져보세요.
+우리 가족만의 앨범을 만들어서 공유 일기를 작성해보세요.
 
-우리 가족만의 앨범을 만들어서 공유 일기를 작성해보아요.
-
-
+'정담'은 가족 간의 대화가 사라지는 지금, 우리에게 필요한 것이 무엇인지 고민했습니다.
+정담은 오늘의 삶, 어제의 삶, 우리 가족의 삶을 공유 할 수 있습니다.
 ```
-
+<div align='center'>
+    <span>
+    <img src="https://user-images.githubusercontent.com/60251579/145420445-7d479daa-6412-46ac-9b00-bdd852ec0318.gif" width="300"/>
+    </span>
+    <span>
+    <img src="https://user-images.githubusercontent.com/60251579/146899319-2c840945-35c5-4b63-95d3-259e81381435.png" width="600"/>
+    </span>
+</div>
+    
 ## 🌐 서비스 주소
 
 > 📌[정담 웹 페이지](https://www.jungdam.tk)  
@@ -42,7 +50,6 @@
 
 <div>
 <span>
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dbd91e6f-7d04-4a2c-8cd8-113c3d40de7e/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB-%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8-2021-12-16-%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE-5.19.55_1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211221%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211221T072244Z&X-Amz-Expires=86400&X-Amz-Signature=f543aaa371970bbaa8234bcf4238e650b3c3842d38992b1d81a3647531ad5238&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E1%2584%2592%25E1%2585%25AA%25E1%2584%2586%25E1%2585%25A7%25E1%2586%25AB-%25E1%2584%2580%25E1%2585%25B5%25E1%2584%2585%25E1%2585%25A9%25E1%2586%25A8-2021-12-16-%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE-5.19.55_1.gif%22&x-id=GetObject" width="250"/>
 </span>
 <span>
 <img src="https://user-images.githubusercontent.com/60251579/145420445-7d479daa-6412-46ac-9b00-bdd852ec0318.gif" width="300"/>
