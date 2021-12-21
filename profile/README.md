@@ -33,7 +33,7 @@
 ```
 <div align='center'>
     <span>
-    <img src="https://user-images.githubusercontent.com/60251579/145420445-7d479daa-6412-46ac-9b00-bdd852ec0318.gif" width="300"/>
+    <img src="https://user-images.githubusercontent.com/60251579/145420445-7d479daa-6412-46ac-9b00-bdd852ec0318.gif" width="250"/>
     </span>
     <span>
     <img src="https://user-images.githubusercontent.com/60251579/146899319-2c840945-35c5-4b63-95d3-259e81381435.png" width="600"/>
