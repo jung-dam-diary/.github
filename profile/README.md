@@ -5,7 +5,11 @@
     <h3>🎞 정답게 주고 받는 우리 가족 이야기 🎞</h3>
 </div>
 
+<br>
+
 ![image](https://user-images.githubusercontent.com/50691225/147013803-edf1ba11-e1d7-4cb6-99a9-d7a32c8f102c.png)
+
+<br>
 
 ## 🧑‍💻 팀원 소개
 
