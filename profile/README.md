@@ -51,7 +51,7 @@
 > [정담 Test Server API Swagger](https://test-api.jungdam.tk/swagger-ui/index.html#/)  
 > [Storybook DesignSystem]()  
 
-## 🎥 데모 영상 (TODO: 나중에)
+## 🎥 데모 영상
 
 <div>
 <span>
